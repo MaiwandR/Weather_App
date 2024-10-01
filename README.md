@@ -1,11 +1,11 @@
-#Weather App 🌤️
+# Weather App 🌤️
 A simple weather application that allows users to check real-time weather conditions for any city using the OpenWeatherMap API. The app displays temperature, humidity, and wind speed, and updates the weather icon based on current weather conditions.
 
-##Demo
+## Demo
 You can check out the live demo of the app here: Weather App.
 
 
-##Features
+## Features
 Search by City: Enter the name of a city to get real-time weather updates.
 Weather Details: Displays the current temperature, humidity, and wind speed.
 Dynamic Weather Icons: Weather icons change based on the current weather conditions (e.g., clouds, clear, rain, drizzle).
@@ -28,7 +28,7 @@ Copy code
 cd weather-app
 Open the index.html file in your browser to use the app.
 
-##How It Works
+## How It Works
 User Input: The user enters the name of a city in the search box.
 API Call: The app fetches the weather data from the OpenWeatherMap API using the provided city name.
 Weather Display: If the city is valid, the weather details (temperature, humidity, wind speed) are displayed. The weather icon is updated based on the current weather condition. If the city is invalid, an error message is shown.
