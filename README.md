@@ -1,9 +1,6 @@
 # Weather App 🌤️
 A simple weather application that allows users to check real-time weather conditions for any city using the OpenWeatherMap API. The app displays temperature, humidity, and wind speed, and updates the weather icon based on current weather conditions.
 
-## Demo
-You can check out the live demo of the app here: Weather App.
-
 
 ## Features
 Search by City: Enter the name of a city to get real-time weather updates.
